@@ -105,6 +105,16 @@ Yes 100%.
 当然我还有自己要完成的任务，每天学习web3运营的相关知识，跑步进入行业，成为从业者。所以我需要知道自己的benchmark并且设置一个适合我自己的目标。当然包括每天的计划。
 尝试利用anki和手机背单词app配合来学习。
 
+Daily Dictation Number 1：
+我的答案：Mother **，who ** peace ** her work ** poor, ** india.she is 87 years old.
+正确答案：Mother Teresa,who received a Nobel Peace Prize for her work on behalf of the poor,dies in Calcutta,India-she was 87 years old.
+
+Daily Dictation Number 2：
+我的答案：Jerry,what time do you have? I have 5 o'clock.(正确)
+
+Daily Dictation Number 3：
+我的答案：There are three things I have ** Never **  people; **, ** and the Great ** !
+正确答案：There are three things I have learned never to discuss with people:religion,politics and the Great Pumpkin!
 ### 2024.10.09
 
 
