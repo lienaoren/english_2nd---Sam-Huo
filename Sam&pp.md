@@ -113,7 +113,7 @@ Daily Dictation Number 2：
 我的答案：Jerry,what time do you have? I have 5 o'clock.(正确)
 
 Daily Dictation Number 3：
-我的答案：There are three things I have ** Never **  people; **, ** and the Great ** !
+我的答案：There are three things I have ** Never **  people; **, ** and the Great ** .
 正确答案：There are three things I have learned never to discuss with people:religion,politics and the Great Pumpkin!
 ### 2024.10.09
 
